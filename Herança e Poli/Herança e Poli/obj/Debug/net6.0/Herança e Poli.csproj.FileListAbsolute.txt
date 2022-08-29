@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\bin\Debug\net6.0\Herança e Poli.exe
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\bin\Debug\net6.0\Herança e Poli.deps.json
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\bin\Debug\net6.0\Herança e Poli.runtimeconfig.json
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\bin\Debug\net6.0\Herança e Poli.dll
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\bin\Debug\net6.0\Herança e Poli.pdb
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.dll
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\refint\Herança e Poli.dll
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.pdb
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\Herança e Poli.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Programação\Herança e Poli\Herança e Poli\obj\Debug\net6.0\ref\Herança e Poli.dll

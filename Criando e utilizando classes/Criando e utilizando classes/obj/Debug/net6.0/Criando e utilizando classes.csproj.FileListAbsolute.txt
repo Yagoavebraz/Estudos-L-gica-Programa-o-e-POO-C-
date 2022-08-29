@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\bin\Debug\net6.0\Criando e utilizando classes.exe
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\bin\Debug\net6.0\Criando e utilizando classes.deps.json
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\bin\Debug\net6.0\Criando e utilizando classes.runtimeconfig.json
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\bin\Debug\net6.0\Criando e utilizando classes.dll
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\bin\Debug\net6.0\Criando e utilizando classes.pdb
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.dll
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\refint\Criando e utilizando classes.dll
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.pdb
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\Criando e utilizando classes.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Programação\Criando e utilizando classes\Criando e utilizando classes\obj\Debug\net6.0\ref\Criando e utilizando classes.dll

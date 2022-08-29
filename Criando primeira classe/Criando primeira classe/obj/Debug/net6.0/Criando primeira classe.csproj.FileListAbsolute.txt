@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\bin\Debug\net6.0\Criando primeira classe.exe
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\bin\Debug\net6.0\Criando primeira classe.deps.json
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\bin\Debug\net6.0\Criando primeira classe.runtimeconfig.json
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\bin\Debug\net6.0\Criando primeira classe.dll
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\bin\Debug\net6.0\Criando primeira classe.pdb
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.dll
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\refint\Criando primeira classe.dll
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.pdb
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\Criando primeira classe.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Programação\Criando primeira classe\Criando primeira classe\obj\Debug\net6.0\ref\Criando primeira classe.dll

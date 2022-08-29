@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\bin\Debug\net6.0\ExercicioHeranPoli.exe
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\bin\Debug\net6.0\ExercicioHeranPoli.deps.json
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\bin\Debug\net6.0\ExercicioHeranPoli.runtimeconfig.json
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\bin\Debug\net6.0\ExercicioHeranPoli.dll
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\bin\Debug\net6.0\ExercicioHeranPoli.pdb
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.dll
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\refint\ExercicioHeranPoli.dll
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.pdb
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ExercicioHeranPoli.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Programação\ExercicioHeranPoli\ExercicioHeranPoli\obj\Debug\net6.0\ref\ExercicioHeranPoli.dll
